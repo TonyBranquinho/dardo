@@ -1,0 +1,6 @@
+C:\temp\ws-vs2019\Dardo\Dardo\bin\Debug\Dardo.exe.config
+C:\temp\ws-vs2019\Dardo\Dardo\bin\Debug\Dardo.exe
+C:\temp\ws-vs2019\Dardo\Dardo\bin\Debug\Dardo.pdb
+C:\temp\ws-vs2019\Dardo\Dardo\obj\Debug\Dardo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Dardo\Dardo\obj\Debug\Dardo.exe
+C:\temp\ws-vs2019\Dardo\Dardo\obj\Debug\Dardo.pdb
